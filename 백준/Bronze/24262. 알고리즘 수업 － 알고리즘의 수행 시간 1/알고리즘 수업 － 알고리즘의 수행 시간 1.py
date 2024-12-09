@@ -1,0 +1,7 @@
+import sys
+input = sys.stdin.readline
+
+a = int(input())
+
+print("1")
+print("0")
